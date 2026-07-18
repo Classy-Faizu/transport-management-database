@@ -23,7 +23,14 @@ This project involved designing and developing a transport management database s
 - SQL database design
 - Team collaboration
 - Database implementation using Oracle
+## Project Documentation
 
+This project was completed in three phases:
+
+- **Phase 1:** Requirements analysis and system planning.
+- **Phase 2:** Conceptual, logical, and physical database design.
+- **Phase 3:** Database implementation, SQL development, and testing.
+  
 ## Author
 
 Mohammed Faiz Shootariya
